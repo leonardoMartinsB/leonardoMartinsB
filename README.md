@@ -4,10 +4,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardoMartinsB&show_icons=true&count_private=true&hide_border=true&title_color=A7C957&icon_color=A7C957&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Martins Brasilio GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartinsb&layout=compact&hide_border=true&title_color=A7C957&text_color=A7C957&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartinsB&layout=compact&hide_border=true&title_color=A7C957&text_color=A7C957&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoMartinsb&bg_color=000000&color=386641&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoMartinsB&bg_color=000000&color=386641&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leonardoMartinsb&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
