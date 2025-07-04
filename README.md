@@ -42,7 +42,7 @@
 
 <div align="center">
   <h2>Contate-me</h2>
-  <a href="https://www.instagram.com/l.bmartins/" target="_blank">
+  <a href="https://www.instagram.com/lleonardomartiins_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:leonardomartinsb45@gmail.com" target="_blank">
