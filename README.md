@@ -23,13 +23,6 @@
 
 ---
 
-## 🐍 Snake Game dos Commits
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leonardoMartinsB/leonardoMartinsB/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ## 👨‍💻 Sobre Mim:
 - 🎓 Estudante de **Desenvolvimento de Sistemas** na **Fatec**  
 - 💡 Apaixonado por **tecnologia**, sempre aprendendo algo novo  
@@ -81,13 +74,6 @@
   <a href="https://www.linkedin.com/in/leonardomartinsbrasilio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-</div>
-
----
-
-## 👀 Visitantes do Perfil
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardoMartinsB&color=A7C957&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
