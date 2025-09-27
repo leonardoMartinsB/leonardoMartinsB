@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7C957&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=386641&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Leonardo+Martins+Brasilio;Tenho+19+anos;Sou+de+Sorocaba,+SP;Estudo+Desenvolvimento+de+Sistemas+na+Fatec;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=386641&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Leonardo+Martins+Brasilio;Tenho+19+anos;Sou+de+Sorocaba,+SP;Estudo+Desenvolvimento+de+Sistemas+na+Fatec;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ---
 
+## 📊 GitHub Stats
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardoMartinsB&show_icons=true&count_private=true&hide_border=true&title_color=A7C957&icon_color=A7C957&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Martins Brasilio GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartinsB&layout=compact&hide_border=true&title_color=A7C957&text_color=A7C957&bg_color=0d1117" />
@@ -15,37 +16,36 @@
 
 ---
 
+## 🏆 Conquistas no GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardoMartinsB&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardoMartinsB&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🐍 Snake Game dos Commits
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leonardoMartinsB/leonardoMartinsB/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim:
-- 🎓 Estudante de **Desenvolvimento de Sistemas** na **Fatec**.
-- 💡 Apaixonado por **tecnologia** e sempre aprendendo algo novo.
-- 🖥️ Interesse em **Full Stack** e **Internet das Coisas (IoT)**.
-- 🤖 Projetos com **Arduino**, **automação** e **Desenvolvimento Web**.
-- 🏙️ Residente de **Sorocaba, São Paulo**.
+- 🎓 Estudante de **Desenvolvimento de Sistemas** na **Fatec**  
+- 💡 Apaixonado por **tecnologia**, sempre aprendendo algo novo  
+- 🖥️ Interesse em **Full Stack** e **IoT (Internet das Coisas)**  
+- 🤖 Projetos com **Arduino**, **automação** e **Desenvolvimento Web**  
+- 🏙️ Residente de **Sorocaba, São Paulo**  
 
 ---
 
 ## 💼 Soft Skills:
-- 🌟 **Trabalho em Equipe**  
-- 🎯 **Foco em Resultados**  
-- 💬 **Comunicação Eficaz**  
-- 🧩 **Criatividade**  
-- ⏱️ **Gerenciamento de Tempo**  
+✨ Trabalho em Equipe • 🎯 Foco em Resultados • 💬 Comunicação Eficaz • 🧩 Criatividade • ⏱️ Gestão do Tempo  
 
 ---
 
 ## 🎯 Objetivos e Metas Futuras:
-- 🚀 Tornar-me **Full Stack Developer** (React & Node.js).  
-- 🌐 Contribuir em **Open Source**.  
-- 🏭 Explorar ainda mais **IoT e automação**.  
-- 🎓 Conquistar **certificações** em Desenvolvimento Web.  
-- 📊 Estudar **Análise de Dados**.  
-- 🏆 Evoluir em **Soft Skills** para colaboração em equipe.  
+🚀 Tornar-me **Full Stack Developer** | 🌐 Contribuir em **Open Source** | 🏭 Avançar em **IoT** | 🎓 Conquistar **Certificações** | 📊 Explorar **Análise de Dados** | 🏆 Evoluir em **Soft Skills**
 
 ---
 
@@ -85,11 +85,11 @@
 
 ---
 
+## 👀 Visitantes do Perfil
 <div align="center">
-  <br>
-  <p><b>Contador de visitantes</b></p>  
-  <img src="https://profile-counter.glitch.me/leonardoMartinsB/count.svg" />
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=leonardoMartinsB&color=A7C957&style=for-the-badge" alt="Profile views" />
 </div>
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7C957&height=120&section=footer"/>
