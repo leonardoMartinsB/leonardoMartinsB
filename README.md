@@ -4,25 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardoMartinsB&show_icons=true&count_private=true&hide_border=true&title_color=A7C957&icon_color=A7C957&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Martins Brasilio GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartinsB&layout=compact&hide_border=true&title_color=A7C957&text_color=A7C957&bg_color=0d1117" />
-</div>
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leonardoMartinsB&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
-
----
-
-## 🏆 Conquistas no GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardoMartinsB&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
-
----
-
 ## 👨‍💻 Sobre Mim:
 - 🎓 Estudante de **Desenvolvimento de Sistemas** na **Fatec**  
 - 💡 Apaixonado por **tecnologia**, sempre aprendendo algo novo  
