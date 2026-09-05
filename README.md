@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7C957&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=386641&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Leonardo+Martins+Brasilio;Tenho+19+anos;Sou+de+Sorocaba,+SP;Estudo+Desenvolvimento+de+Sistemas+na+Fatec;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=386641&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Leonardo+Martins+Brasilio;Tenho+20+anos;Sou+de+Sorocaba,+SP;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 Sobre Mim:
-- 🎓 Estudante de **Desenvolvimento de Sistemas** na **Fatec**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**  
 - 💡 Apaixonado por **tecnologia**, sempre aprendendo algo novo  
 - 🖥️ Interesse em **Full Stack** e **IoT (Internet das Coisas)**  
 - 🤖 Projetos com **Arduino**, **automação** e **Desenvolvimento Web**  
