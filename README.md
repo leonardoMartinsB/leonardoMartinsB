@@ -23,7 +23,7 @@ Desenvolvo projetos web, APIs e aplicações de gerenciamento, além de explorar
 - Objetivo: contribuir com projetos reais, colaborar com outros desenvolvedores e aprimorar minhas habilidades técnicas
 Tecnologias e ferramentas
 Linguagens e fundamentos
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,python" alt="HTML, CSS, JavaScript, PHP, C Sharp, C++ e Python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,cs,cpp,python" alt="HTML, CSS, JavaScript, Java, PHP, C Sharp, C++ e Python" />
 
 
 Frameworks e bibliotecas
@@ -35,7 +35,15 @@ Bancos de dados
 
 
 Ferramentas e outros conhecimentos
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,arduino,figma,ps,wordpress" alt="Git, GitHub, VS Code, Visual Studio, Linux, Arduino, Figma, Photoshop e WordPress" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,arduino,figma" alt="Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Arduino e Figma" />
+
+
+Ferramentas de desenvolvimento com IA
+<p>
+  <img src="https://img.shields.io/badge/Google_Antigravity-386641?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-386641?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-386641?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
 
 Projetos em destaque
 Projeto	O que desenvolvi	Tecnologias
@@ -45,9 +53,6 @@ API de Gerenciamento de Clientes	API REST para operações CRUD e aplicação cl
 Ping Enquetes	Aplicação web de enquetes e votação com autenticação.	C# e ASP.NET MVC
 
 
-Em desenvolvimento
-- Garage Club (nova versão): evolução de uma ideia acadêmica para um projeto pessoal mais completo.
-- TreeClick: jogo incremental em desenvolvimento, com foco em interatividade, progressão e experiência do usuário.
 Além do código
 Valorizo colaboração, comunicação clara, criatividade e resolução de problemas. Tenho interesse em projetos que permitam aprender na prática, construir soluções úteis e compartilhar conhecimento.
 Contato
